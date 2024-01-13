@@ -1,2 +1,2 @@
-# babylon_template
-BabylonJS boilerplate project template
+# babylon_village
+BabylonJS tutorial village project
